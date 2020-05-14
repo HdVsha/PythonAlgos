@@ -1,6 +1,3 @@
-"""
-In the previous task I forgot to delete the unnecessary code. Sorry.
-"""
 class Graph_of_dist:
 
     def __init__(self, vertices_num): #initializing the graph of distances
